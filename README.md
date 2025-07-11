@@ -9,7 +9,7 @@
 
 ### 🎨 About Me
 
-- 🧑‍🎓 International sophomore at UW majoring in **HCDE**
+- 🧑‍🎓 Sophomore at UW majoring in **HCDE**
 - 🎨 Artistic and design-oriented with a technical mindset
 - 💻 Experienced in  **Python**, **Figma**, **Tableau**
 - 📊 Passionate about making data and interaction visual & human-friendly
