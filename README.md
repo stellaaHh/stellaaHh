@@ -1,4 +1,4 @@
-<h1 align="center" style="color:#3b5667;">Hi, I’m Stella 🌸</h1>
+<h1 align="center" style="color:#3b5667;">Hiii, I’m Stella 🌸</h1>
 
 <p align="center">
   <em>Human Centered Design & Engineering @ University of Washington</em><br>
