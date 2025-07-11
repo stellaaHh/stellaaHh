@@ -19,7 +19,7 @@
 ### 💡 Skills
 
 ```text
-🎨  Figma
 🐍  Python
 📊  Tableau
-💬  Visual Storytelling
+🎨  Figma
+🖌️  Procreate
