@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1 align="center" style="color:#3b5667;">Hi, I’m Stella 🌸</h1>
 
-<!--
-**stellaaHh/stellaaHh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <em>Human Centered Design & Engineering @ University of Washington</em><br>
+  <strong>Design ✦ Data ✦ Code ✦ Art</strong>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎨 About Me
+
+- 🧑‍🎓 International sophomore at UW majoring in **HCDE**
+- 🎨 Artistic and design-oriented with a technical mindset
+- 💻 Experienced in  **Python**, **Figma**, **Tableau**
+- 📊 Passionate about making data and interaction visual & human-friendly
+
+---
+
+### 💡 Skills
+
+```text
+🎨  Figma
+🐍  Python
+📊  Tableau
+💬  Visual Storytelling
